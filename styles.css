@@ -1,0 +1,56 @@
+body {
+	background-color: black;
+    color: goldenrod;
+    font-family: sans-serif;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+button {
+    background-color: black;
+    color: goldenrod;
+    border: ridge goldenrod 8px;
+    border-radius: 4px;
+    padding: 5px 20px;
+    margin: 5px 10px;
+}
+
+img {
+	width: 70%;
+}
+
+.screen {
+	display: none;
+}
+
+.eye-horus {
+    border: ridge goldenrod 8px;
+    background-color: beige;
+}
+
+.back-screen {
+    color: red;
+}
+
+.tiny {
+    color: grey;
+    font-size: 6px;
+}
+
+.correct-answer {
+    color: darkgoldenrod;
+}
+
+.sphynx-talk {
+    display: none;
+}
+
+.programmers-secret {
+    border: ridge goldenrod 8px;
+    background-color: beige;
+    color: black;
+}
